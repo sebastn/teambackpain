@@ -1,4 +1,4 @@
-baseURL = "https://teambackpain.netlify.com"
+baseURL = "https://teambackpain.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
