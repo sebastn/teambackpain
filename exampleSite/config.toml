@@ -28,7 +28,7 @@ name = "About"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "course"
+name = "Workshops"
 url = "course"
 weight = 2
 [[Languages.en.menu.main]]
