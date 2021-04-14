@@ -32,15 +32,6 @@ sections:
   templates:
   - course
 - type: heading
-  label: Notice
-- type: directory
-  path: exampleSite/content/english/notice
-  label: Notice (en)
-  create: all
-  match: "**/*"
-  templates:
-  - notice
-- type: heading
   label: Teacher
 - type: directory
   path: exampleSite/content/english/teacher
