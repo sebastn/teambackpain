@@ -20,7 +20,7 @@ url = "teacher"
 name = "Tables"
 url = "notice"
 [[Languages.en.menu.footer]]
-name = "Mouse"
+name = "Mice"
 url = "event"
 
 [[Languages.en.menu.main]]
@@ -28,7 +28,7 @@ name = "About"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Workshops"
+name = "Rentals"
 url = "course"
 weight = 2
 [[Languages.en.menu.main]]
