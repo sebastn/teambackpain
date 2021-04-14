@@ -13,15 +13,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[[Languages.en.menu.footer]]
-name = "Chairs"
-url = "teacher"
-[[Languages.en.menu.footer]]
-name = "Tables"
-url = "notice"
-[[Languages.en.menu.footer]]
-name = "Mice"
-url = "event"
 
 [[Languages.en.menu.main]]
 name = "About"
