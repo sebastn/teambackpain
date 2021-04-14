@@ -10,12 +10,6 @@
 - id: contact_info
   translation: Contact Info
 
-- id: subscribe_newsletter
-  translation: Subscribe Newsletter
-
-- id: subscribe
-  translation: Subscribe
-
 - id: contact_us
   translation: Contact Us
 
@@ -87,9 +81,6 @@
 
 - id: courses
   translation: Courses
-
-- id: new_notice
-  translation: new notice
 
 - id: call
   translation: call
