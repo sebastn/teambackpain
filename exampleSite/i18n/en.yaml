@@ -96,3 +96,9 @@
 
 - id: download
   translation: Download
+
+  - id: subscribe_newsletter
+  translation: Subscribe Newsletter
+
+  - id: subscribe
+  translation: Subscribe
