@@ -8,26 +8,21 @@ themesDir = "../.."
 title = "Health and Wellbeing"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2021 by teambackpain"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
-name = "teacher"
+name = "Chairs"
 url = "teacher"
 [[Languages.en.menu.footer]]
-name = "notice"
+name = "Tables"
 url = "notice"
 [[Languages.en.menu.footer]]
-name = "event"
+name = "Mouse"
 url = "event"
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship"
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research"
+
 [[Languages.en.menu.main]]
 name = "About"
 url = "about"
@@ -70,7 +65,7 @@ url = "contact"
 weight = 5
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2021 teambackpain)"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -131,14 +126,14 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "Novalistraße 10, Berlin, Germany"
+author = "Teambackpain"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "info@teambackpain.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+491234565523"
 top_header = true
 [params.cookies]
 enable = true
