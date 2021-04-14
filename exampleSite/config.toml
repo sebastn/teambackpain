@@ -3,7 +3,7 @@ disableLanguages = ["fr"]
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
-theme = "educenter-hugo"
+theme = "teambackpain"
 themesDir = "../.."
 title = "Health and Wellbeing"
 [Languages.en]
@@ -13,14 +13,13 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-
-[[Languages.en.menu.main]]
-name = "About"
-url = "about"
-weight = 1
 [[Languages.en.menu.main]]
 name = "Rentals"
 url = "course"
+weight = 1
+[[Languages.en.menu.main]]
+name = "About"
+url = "about"
 weight = 2
 [[Languages.en.menu.main]]
 hasChildren = true
