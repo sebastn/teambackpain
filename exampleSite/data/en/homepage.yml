@@ -4,36 +4,36 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "Your healthy future is our mission"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Contact us"
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "We care about your well being"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Contact us"
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "Experience the complete wellness solution"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Contact us"
         link : "contact"
 
 
@@ -57,16 +57,11 @@ banner_feature:
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
-    # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About teambackpain"
   image : "images/about/about-us.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
 
@@ -81,14 +76,14 @@ about:
 ############################# Course ################################
 course:
   enable : true
-  title : "Our Course"
+  title : "Our Offerings"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Click to Join the Yoga and Meditation Workshop"
+  title : "Yoga and Meditation"
   button:
     enable : true
     label : "join now"
@@ -121,20 +116,20 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+    - name : "Companies"
+      count : "69"
 
     # funfact item loop
     - name : "COURSES"
-      count : "50"
+      count : "69"
 
     # funfact item loop
     - name : "STUDENTS"
-      count : "1000"
+      count : "6969"
 
     # funfact item loop
     - name : "SATISFIED CLIENT"
-      count : "1400"
+      count : "69"
 
 # funfact is for about page
 
