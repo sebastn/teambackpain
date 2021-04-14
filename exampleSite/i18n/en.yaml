@@ -76,11 +76,8 @@
 - id: company
   translation: company
 
-- id: links
-  translation: links
-
 - id: courses
-  translation: Courses
+  translation: Rentals
 
 - id: call
   translation: call
