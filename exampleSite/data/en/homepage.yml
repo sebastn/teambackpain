@@ -65,7 +65,6 @@ course:
   title : "Our Offerings"
   # course item comes from "content/**/course" folder.
 
-{{< youtube id="8T39OBNaNzU" title="Yoga With Adriene" autoplay="true" >}}
 
 ########################## Call to action ############################
 cta:
