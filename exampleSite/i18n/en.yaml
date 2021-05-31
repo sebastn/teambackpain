@@ -97,8 +97,8 @@
 - id: download
   translation: Download
 
-  - id: subscribe_newsletter
+- id: subscribe_newsletter
   translation: Subscribe Newsletter
 
-  - id: subscribe
+- id: subscribe
   translation: Subscribe
